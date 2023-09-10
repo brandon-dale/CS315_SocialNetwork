@@ -1,0 +1,48 @@
+{
+"users": [
+	{
+		"id_str" : "6" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"name" : "Ruel" ,
+		"location" : "Oregon"
+	},
+	{
+		"follows" : ["4","5","6"] ,
+		"location" : "Minnesota" ,
+		"id_str" : "2" ,
+		"name" : "Ramira" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg"
+	},
+	{
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"name" : "Marwah" ,
+		"location" : "Kentucky" ,
+		"id_str" : "5" ,
+		"follows" : []
+	},
+	{
+		"follows" : ["2", "7"] ,
+		"name" : "Remee" ,
+		"pic_url" : "https://stratcomm.sonoma.edu/sites/stratcomm/files/images/giphy-1_0.gif" ,
+		"id_str" : "3"
+	},
+	{
+		"name" : "Annmarie" ,
+		"id_str" : "7"
+	},
+	{
+		"id_str" : "1" ,
+		"name" : "Jack" ,
+		"location" : "Arizona" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"follows" : ["2"]
+	},
+	{
+		"name" : "Finnley" ,
+		"follows" : ["5"] ,
+		"id_str" : "4" ,
+		"location" : "Washington"
+	}
+]
+}
+

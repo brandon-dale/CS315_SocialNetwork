@@ -1,0 +1,33 @@
+{
+"users": [
+	{
+		"id_str" : "1" ,
+		"name" : "Liel" ,
+		"location" : "Hawaii" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png" ,
+		"follows" : ["3","4"]
+	},
+	{
+		"id_str" : "2" ,
+		"name" : "Ruel" ,
+		"location" : "Oregon" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"follows" : ["4"]
+	},
+	{
+		"id_str" : "3" ,
+		"name" : "Roey" ,
+		"location" : "Minnesota" ,
+		"pic_url" : "https://stratcomm.sonoma.edu/sites/stratcomm/files/images/giphy-1_0.gif" ,
+		"follows" : ["2","4"]
+	},
+	{
+		"id_str" : "4" ,
+		"name" : "Jahniya" ,
+		"location" : "Montana" ,
+		"pic_url" : "https://stratcomm.sonoma.edu/sites/stratcomm/files/images/giphy-1_0.gif" ,
+		"follows" : ["1","2"]
+	}
+]
+}
+
